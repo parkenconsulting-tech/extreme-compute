@@ -1,11 +1,11 @@
 module.exports = {
-  title: "Vuepress",
-  description: "This is a Zeit Now 2.0 example",
+  title: "Parken Consulting - Extreme Compute",
+  description: "Use cases and guide for Extreme Compute",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "Config Page", link: "/config" }
+      { text: "Cloud Hosting", link: "/guide/" },
+      { text: "Cloud Storage", link: "/config" }
     ]
   },
   dest: "public"
